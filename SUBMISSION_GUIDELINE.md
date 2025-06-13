@@ -1,27 +1,61 @@
-# Submission Guideline
+# ArtistDB Submission Guidelines
 
-All artists data in ArtistDB must be clear, not misleading, also be checked by our team.
+Welcome to the ArtistDB submission process. To maintain the integrity and quality of our database, all artist submissions undergo thorough verification by our team. Please review the following guidelines carefully before submitting.
 
-We have some rules for the artists data:
+## Submission Rules
 
-## Rule
+1. **Visual Artists Only**: This database is exclusively for visual artists. Musical artists are not eligible for submission.
 
-0. Do not submit a musical artist; this is for an artist who draws
-1. Never submit a fake/non-existent artist
-2. Never submit an AI artist (post all AI images)
-3. Never submit missing required artist data fields
-4. You can submit artists who **recently** use AI to draw because we will verify it and mark it as [Removed Artist](#removed-artist) if so
-5. If the artist is a group/duo, please submit each artist in the group/duo as a separate artist
-6. If the artist has other aliases, please submit only one artist and add other aliases in the artist data, and do not submit the same person with multiple artist aliases
-7. At least 1 or more social media link is required
-8. Do not submit artists that have been submitted before. Check the artist list before submitting
-9. If you try to submit the media for the artist showcase, you must ask the artist for permission first. Do not submit NSFW content without nsfw warning turned on
-10. Do not submit private information about the artist like home address, phone number, email, etc, unless the artist has public information or explicitly allows it.
+2. **Authenticity**: 
+   - Submit only real, existing artists
+   - All required artist data fields must be completed
 
-## Removed Artist
+3. **AI Art Policy**:
+   - AI artists are not eligible for submission
+   - Artists who have recently incorporated AI tools may be submitted but will be reviewed and potentially marked in a [**Artist Notices**](#artist-notices-policy) if necessary
 
-Removed Artist is a list of artists that we have identified as problematic, having been found to use AI to draw recently, including those with criminal or plagiarism-related issues, and other reasons. Once we verify it, we will put in removed artist list.
+4. **Group/Collective Submissions**:
+   - For artist groups or duos, submit each member as a separate entry
+   - Include clear references to their collaborative work on description or aliases
 
-The reason is to preserve the data and will let the user know the reason for the artist with multiple citations.
+5. **Artist Aliases**:
+   - Submit one primary entry per artist
+   - Include all known aliases in the artist's data
+   - Do not create separate entries for different aliases
 
-Artists who have been marked as removed artists will be put on notice with multiple citations on the website. In rare cases, if an artist has requested us we remove it due to privacy or other reasons, we will remove it from the database within 7-30 days.
+6. **Social Media Requirements**:
+   - At least one active social media link is mandatory
+   - Links must be current and accessible
+
+7. **Duplicate**:
+   - Check existing entries before submitting
+   - Duplicate submissions will be rejected
+
+8. **Content Guidelines**:
+   - Obtain explicit permission before submitting artist showcase media
+   - NSFW content must be properly flagged
+   - Respect artist privacy and copyright
+
+9. **Privacy Protection**:
+   - Do not submit private contact information (addresses, phone numbers, emails)
+   - Only include information that is publicly available or explicitly authorized
+
+## Artist Notices Policy
+
+> All data are backup or stored in a [Rentry's ArtistDB OnRadar](https://rentry.org/artistdb-on-radar-db)
+
+The Artist Notices list includes artists who have been found to:
+- Use AI tools for artwork generation
+- Engage in criminal activities
+- Participate in plagiarism
+- Violate other guidelines
+- Other reasons
+
+This list serves to:
+- Maintain historical records
+- Provide transparency about our/community decisions
+
+Artists will be:
+- Clearly marked on the website
+- Citations explaining the notices will be provided
+- In rare cases subject to a 7-30 day removal process if requested by the artist for privacy concerns or other reasons
